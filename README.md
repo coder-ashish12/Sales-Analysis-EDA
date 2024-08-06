@@ -1,4 +1,4 @@
-# Sales-Analysis-EDA
+# Sales-Analysis-EDA | Special Thanks @rishabhnmishra
 Sales Analysis | Exploratory data analysis (EDA)
 
 - Analyzed a dataset with over 11,000+ records using Jupyter Notebook and Python libraries (Pandas, NumPy, Matplotlib, Seaborn).
